@@ -1,2 +1,2 @@
-# FiapBanck
+# FiapBank
 Projeto feito em Java
